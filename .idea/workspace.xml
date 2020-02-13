@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eac1adf0-4cc5-4826-a9b5-193119f2347f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/DropDown.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/FindRoomButton.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/RoomSearchBar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/layout/NavBar.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-    </list>
+    <list default="true" id="eac1adf0-4cc5-4826-a9b5-193119f2347f" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -78,33 +66,49 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1581602821831</updated>
-      <workItem from="1581602823621" duration="9361000" />
+      <workItem from="1581602823621" duration="9619000" />
     </task>
+    <task id="LOCAL-00001" summary="Created Room Booking Project">
+      <created>1581617235270</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1581617235270</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Created Room Booking Project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created Room Booking Project" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="549" y="155" key="FileChooserDialogImpl" timestamp="1581617175638">
+    <state x="393" y="9" key="CommitChangelistDialog2" timestamp="1581617234509">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="155" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1581617175638" />
-    <state width="1493" height="198" key="GridCell.Tab.0.bottom" timestamp="1581605673835">
+    <state x="393" y="9" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1581617234509" />
+    <state x="549" y="155" key="FileChooserDialogImpl" timestamp="1581617379348">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="198" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1581605673835" />
-    <state width="1493" height="198" key="GridCell.Tab.0.center" timestamp="1581605673835">
+    <state x="549" y="155" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1581617379348" />
+    <state width="1493" height="198" key="GridCell.Tab.0.bottom" timestamp="1581617404931">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="198" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1581605673835" />
-    <state width="1493" height="198" key="GridCell.Tab.0.left" timestamp="1581605673835">
+    <state width="1493" height="198" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1581617404931" />
+    <state width="1493" height="198" key="GridCell.Tab.0.center" timestamp="1581617404930">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="198" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1581605673835" />
-    <state width="1493" height="198" key="GridCell.Tab.0.right" timestamp="1581605673835">
+    <state width="1493" height="198" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1581617404930" />
+    <state width="1493" height="198" key="GridCell.Tab.0.left" timestamp="1581617404930">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="198" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1581605673835" />
+    <state width="1493" height="198" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1581617404930" />
+    <state width="1493" height="198" key="GridCell.Tab.0.right" timestamp="1581617404931">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="198" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1581617404931" />
   </component>
 </project>

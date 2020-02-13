@@ -1,24 +1,21 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
+import 'materialize-css/dist/css/materialize.min.css';
+import './Components/layout/NavBar';
+import NavBar from "./Components/layout/NavBar";
+import RoomSearchBar from "./Components/RoomSearchBar";
+import DropDown from "./Components/DropDown"
+import FindRoomButton from "./Components/FindRoomButton";
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <NavBar/>
+      <br/>
+      <RoomSearchBar/>
+        <DropDown/>
+        <FindRoomButton/>
     </div>
   );
 }

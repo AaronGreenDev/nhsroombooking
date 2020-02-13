@@ -27,7 +27,7 @@ class NavBar extends Component {
                             <i className="material-icons">menu</i></a>
                             <ul id="nav-mobile" className="right hide-on-med-and-down">
                                 <li><a href="sass.html">Home</a></li>
-                                <li><a href="badges.html"></a>Search</li>
+                                <li><a href="badges.html">Search</a></li>
                                 <li><a href="collapsible.html">Bookings</a></li>
                                 <li><a href="collapsible.html">Reviews</a></li>
                             </ul>

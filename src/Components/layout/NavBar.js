@@ -1,6 +1,7 @@
 import React, {Component} from "react";
 import M from 'materialize-css/dist/js/materialize.js'
 
+
 class NavBar extends Component {
 
     componentDidMount() {
@@ -13,6 +14,7 @@ class NavBar extends Component {
 
     render() {
         return (
+
             <div>
                 <nav className="nav-extended">
                     <div className="nav-wrapper blue">
@@ -32,7 +34,7 @@ class NavBar extends Component {
                         <ul className="tabs tabs-transparent">
                             <li className="tab"><a className="active" href="#test1">Location</a></li>
                             <li className="tab"><a  href="#test2">Time</a></li>
-                            <li className="tab"><a href="#test4">Facilities</a></li>
+                            <li className="tab"><a to="#" href="#test4">Facilities</a></li>
                         </ul>
 
                     </div>

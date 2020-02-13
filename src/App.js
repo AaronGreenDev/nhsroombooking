@@ -5,8 +5,10 @@ import 'materialize-css/dist/css/materialize.min.css';
 import './Components/layout/NavBar';
 import NavBar from "./Components/layout/NavBar";
 import RoomSearchBar from "./Components/RoomSearchBar";
-import DropDown from "./Components/DropDown"
+import LocationDropDown from "./Components/LocationDropDown"
 import FindRoomButton from "./Components/FindRoomButton";
+import DatePicker from "./Components/DatePicker";
+import TimePicker from "./Components/TimePicker";
 
 function App() {
   return (
@@ -14,7 +16,9 @@ function App() {
       <NavBar/>
       <br/>
       <RoomSearchBar/>
-        <DropDown/>
+        <LocationDropDown/>
+
+
         <FindRoomButton/>
     </div>
   );

@@ -1,7 +1,7 @@
 import React, {Component} from "react";
 import M from 'materialize-css/dist/js/materialize.js'
 
-class DropDown extends Component{
+class LocationDropDown extends Component{
 
 
 
@@ -16,7 +16,6 @@ class DropDown extends Component{
     render() {
         return(
              <div className="row">
-                <div className="col s12">
                 <div className="input-field col s12 l4">
                     <select multiple>
                         <option value="" disabled>Select your Location</option>
@@ -27,12 +26,12 @@ class DropDown extends Component{
                     <label>Location Select</label>
                 </div>
 
-                 </div>
              </div>
+
         )
 
     }
 
 }
 
-export default DropDown
+export default LocationDropDown

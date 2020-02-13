@@ -1,5 +1,6 @@
 import React, {Component} from "react";
 import M from 'materialize-css/dist/js/materialize.js'
+import NHSLogo from './NHSLogo.png';
 
 
 class NavBar extends Component {
@@ -17,20 +18,23 @@ class NavBar extends Component {
 
             <div>
                 <nav className="nav-extended">
-                    <div className="nav-wrapper blue">
-                        <a href="#" className="brand-logo">NHS</a>
+                    <div className="nav-wrapper">
+
+                        <div className="center">
+                        <img className="brand-logo center" style={{ alignItems:"center", width: 125, height: 50}} src={NHSLogo} />
+
                         <a href="#" data-target="mobile-demo" className="sidenav-trigger">
-
                             <i className="material-icons">menu</i></a>
-                        <ul id="nav-mobile" className="right hide-on-med-and-down">
-                            <li><a href="sass.html">Home</a></li>
-                            <li><a href="badges.html">Search</a></li>
-                            <li><a href="collapsible.html">Bookings</a></li>
-                            <li><a href="collapsible.html">Reviews</a></li>
-                        </ul>
-                    </div>
+                            <ul id="nav-mobile" className="right hide-on-med-and-down">
+                                <li><a href="sass.html">Home</a></li>
+                                <li><a href="badges.html"></a>Search</li>
+                                <li><a href="collapsible.html">Bookings</a></li>
+                                <li><a href="collapsible.html">Reviews</a></li>
+                            </ul>
 
-                    <div className="nav-content blue">
+                        </div>
+                    </div>
+                    <div className="nav-content">
                         <ul className="tabs tabs-transparent">
                             <li className="tab"><a className="active" href="#test1">Location</a></li>
                             <li className="tab"><a  href="#test2">Time</a></li>

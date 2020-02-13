@@ -7,7 +7,7 @@ class FindRoomButton extends Component{
             return(
                 <div className="row">
                     <div className="col s12 l4">
-                        <a className="waves-effect waves-light btn-large pin-bottom blue darken-4">Find Room</a>
+                        <a className="waves-effect waves-light btn-large pin-bottom blue darken-1">Find Room</a>
                     </div>
                 </div>
 

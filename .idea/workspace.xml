@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eac1adf0-4cc5-4826-a9b5-193119f2347f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Components/layout/NHSLogo.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/FindRoomButton.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/FindRoomButton.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/layout/NavBar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/layout/NavBar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +40,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Components/layout" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -42,6 +48,16 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\aaron\PhpstormProjects\nhsroombooking\src\Components\layout" />
+      <recent name="C:\Users\aaron\PhpstormProjects\nhsroombooking\src" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\aaron\PhpstormProjects\nhsroombooking\src\Components\layout" />
+      <recent name="C:\Users\aaron\PhpstormProjects\nhsroombooking\public" />
+    </key>
   </component>
   <component name="RunManager" selected="npm.npm start">
     <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
@@ -68,7 +84,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1581602821831</updated>
-      <workItem from="1581602823621" duration="18146000" />
+      <workItem from="1581602823621" duration="18635000" />
+      <workItem from="1581629377230" duration="4717000" />
     </task>
     <task id="LOCAL-00001" summary="Created Room Booking Project">
       <created>1581617235270</created>
@@ -98,7 +115,14 @@
       <option name="project" value="LOCAL" />
       <updated>1581627205497</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="first front end view completed">
+      <created>1581627320115</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1581627320115</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -109,7 +133,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -121,10 +147,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="first front end view completed" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="393" y="9" key="CommitChangelistDialog2" timestamp="1581627204892">
+    <state x="393" y="9" key="CommitChangelistDialog2" timestamp="1581627319471">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="393" y="9" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1581627204892" />
+    <state x="393" y="9" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1581627319471" />
     <state x="93" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1581627316563">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -137,26 +163,78 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="628" y="307" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1581617727044" />
-    <state width="1493" height="198" key="GridCell.Tab.0.bottom" timestamp="1581627077342">
+    <state width="1493" height="198" key="GridCell.Tab.0.bottom" timestamp="1581634577675">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="198" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1581627077342" />
-    <state width="1493" height="198" key="GridCell.Tab.0.center" timestamp="1581627077341">
+    <state width="1493" height="198" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1581634577675" />
+    <state width="1493" height="198" key="GridCell.Tab.0.center" timestamp="1581634577675">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="198" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1581627077341" />
-    <state width="1493" height="198" key="GridCell.Tab.0.left" timestamp="1581627077341">
+    <state width="1493" height="198" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1581634577675" />
+    <state width="1493" height="198" key="GridCell.Tab.0.left" timestamp="1581634577675">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="198" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1581627077341" />
-    <state width="1493" height="198" key="GridCell.Tab.0.right" timestamp="1581627077341">
+    <state width="1493" height="198" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1581634577675" />
+    <state width="1493" height="198" key="GridCell.Tab.0.right" timestamp="1581634577675">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="198" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1581627077341" />
+    <state width="1493" height="198" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1581634577675" />
+    <state width="1493" height="135" key="GridCell.Tab.1.bottom" timestamp="1581633543162">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="135" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1581633543162" />
+    <state width="1493" height="135" key="GridCell.Tab.1.center" timestamp="1581633543162">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="135" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1581633543162" />
+    <state width="1493" height="135" key="GridCell.Tab.1.left" timestamp="1581633543162">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="135" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1581633543162" />
+    <state width="1493" height="135" key="GridCell.Tab.1.right" timestamp="1581633543162">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="135" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1581633543162" />
+    <state width="1493" height="135" key="GridCell.Tab.2.bottom" timestamp="1581633543163">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="135" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1581633543163" />
+    <state width="1493" height="135" key="GridCell.Tab.2.center" timestamp="1581633543162">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="135" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1581633543162" />
+    <state width="1493" height="135" key="GridCell.Tab.2.left" timestamp="1581633543162">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="135" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1581633543162" />
+    <state width="1493" height="135" key="GridCell.Tab.2.right" timestamp="1581633543162">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="135" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1581633543162" />
+    <state width="1493" height="135" key="GridCell.Tab.3.bottom" timestamp="1581633543163">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="135" key="GridCell.Tab.3.bottom/0.0.1536.824@0.0.1536.824" timestamp="1581633543163" />
+    <state width="1493" height="135" key="GridCell.Tab.3.center" timestamp="1581633543163">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="135" key="GridCell.Tab.3.center/0.0.1536.824@0.0.1536.824" timestamp="1581633543163" />
+    <state width="1493" height="135" key="GridCell.Tab.3.left" timestamp="1581633543163">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="135" key="GridCell.Tab.3.left/0.0.1536.824@0.0.1536.824" timestamp="1581633543163" />
+    <state width="1493" height="135" key="GridCell.Tab.3.right" timestamp="1581633543163">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="135" key="GridCell.Tab.3.right/0.0.1536.824@0.0.1536.824" timestamp="1581633543163" />
     <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1581627235025">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1581627235025" />
+    <state x="465" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1581629754142">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="238" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1581629754142" />
     <state x="563" y="278" key="git4idea.rebase.GitRebaseDialog" timestamp="1581627135216">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

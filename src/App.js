@@ -7,8 +7,10 @@ import NavBar from "./Components/layout/NavBar";
 import RoomSearchBar from "./Components/RoomSearchBar";
 import LocationDropDown from "./Components/LocationDropDown"
 import FindRoomButton from "./Components/FindRoomButton";
+import LocationList from "./Components/LocationList";
 import DatePicker from "./Components/DatePicker";
 import TimePicker from "./Components/TimePicker";
+import RoomList from "./Components/RoomList";
 
 function App() {
   return (
@@ -16,10 +18,8 @@ function App() {
       <NavBar/>
       <br/>
       <RoomSearchBar/>
-        <LocationDropDown/>
-
-
-        <FindRoomButton/>
+      <LocationList/>
+      <FindRoomButton/>
     </div>
   );
 }

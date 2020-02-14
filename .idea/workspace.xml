@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eac1adf0-4cc5-4826-a9b5-193119f2347f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Components/LocationList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/RoomList.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/layout/NavBar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/layout/NavBar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/RoomSearchBar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/RoomSearchBar.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +84,7 @@
       <option name="presentableId" value="Default" />
       <updated>1581602821831</updated>
       <workItem from="1581602823621" duration="18635000" />
-      <workItem from="1581629377230" duration="4973000" />
+      <workItem from="1581629377230" duration="9067000" />
     </task>
     <task id="LOCAL-00001" summary="Created Room Booking Project">
       <created>1581617235270</created>
@@ -125,7 +128,14 @@
       <option name="project" value="LOCAL" />
       <updated>1581636411029</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Search button on navbar fixed">
+      <created>1581636666388</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1581636666388</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -148,13 +158,14 @@
     <MESSAGE value="Created Room Booking Project" />
     <MESSAGE value="first front end view completed" />
     <MESSAGE value="Added NHS Logo and centered" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added NHS Logo and centered" />
+    <MESSAGE value="Search button on navbar fixed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Search button on navbar fixed" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="393" y="9" key="CommitChangelistDialog2" timestamp="1581636410256">
+    <state x="393" y="9" key="CommitChangelistDialog2" timestamp="1581636665842">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="393" y="9" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1581636410256" />
+    <state x="393" y="9" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1581636665842" />
     <state x="93" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1581627316563">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -235,10 +246,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="135" key="GridCell.Tab.3.right/0.0.1536.824@0.0.1536.824" timestamp="1581633543163" />
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1581636436543">
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1581641076215">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1581636436543" />
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1581641076215" />
     <state x="465" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1581629754142">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
